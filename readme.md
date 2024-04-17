@@ -17,6 +17,10 @@ El proyecto consiste en una página web que muestra dos secciones:
 2. Abre el archivo `index.html` en tu navegador web.
 3. La página cargará automáticamente los datos sobre el precio de la electricidad y mostrará la información correspondiente.
 
+## Ver ejemplo en vivo
+
+- https://jesus-sanchezl.github.io/Proyecto-Luz/
+
 
 ## Créditos
 
